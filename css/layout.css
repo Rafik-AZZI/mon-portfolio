@@ -74,7 +74,19 @@ body {
   gap: 34px;
 }
 
+/* College skills Section */
 
+#college-skills-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.college-skills-content {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
 
 
 /* Project Section */
